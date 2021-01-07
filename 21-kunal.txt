@@ -195,11 +195,6 @@
     </table>
 
       </form>
-</br>
-</br>
-</br>
-</br>
-</br>
 <footer>
  Made By GeekHaven 
         <div class="media">
